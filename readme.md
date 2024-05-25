@@ -6,4 +6,4 @@ cfg记得看控制台提示和聊天框提示
 
 使用会绑定“O、P、{”三个键，如有冲突记得将自己绑定的按键备份
 
-Currently only supports Chinese, should not support other languages (not so much time...).
+Currently only supports Chinese, may not support other languages (not so much time...).
